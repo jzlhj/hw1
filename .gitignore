@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+EuroSAT_RGB/
+
+outputs/
+outputs_*/
+outputs_smoke/
+outputs_run/
+
+tune_relu_*/
+!tune_relu_224_112_lr0015/
+!tune_relu_224_112_lr0015/**
+
